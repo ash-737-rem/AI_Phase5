@@ -28,3 +28,7 @@ The script will display basic statistics of the dataset and a plot showing energ
 
 You can modify the code in energy_consumption.py to perform more advanced data analysis and create additional visualizations.
 Ensure that the CSV file is correctly named and located in the same directory as the script. If not, modify the file path in the code.
+
+About Dataset
+The hourly power consumption data comes from PJM's website and are in megawatts (MW) for about 10 years.
+The file is downloadable in zip form and extract it to get "AEP_hourly.csv"
